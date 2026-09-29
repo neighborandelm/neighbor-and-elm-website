@@ -9,7 +9,7 @@ header{position:fixed;width:100%;background:rgba(248,244,238,.9);backdrop-filter
 .nav{display:flex;justify-content:space-between;padding:18px 0}
 nav a{text-decoration:none;color:var(--text);margin-left:24px}
 .brand{font-family:"Cormorant Garamond",serif;font-size:2rem}
-.hero{min-height:100vh;display:grid;place-items:center;background:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.45)),url('https://images.unsplash.com/photo-1517457373958-b7bdd4587205?q=80&w=1600&auto=format&fit=crop') center/cover;color:white;text-align:center}
+.hero{min-height:100vh;display:grid;place-items:center;background:linear-gradient(rgba(0,0,0,.35),rgba(0,0,0,.45)),url(steffan-mitchell-gHrgeeCCkYA-unsplash.jpg) center/cover;color:white;text-align:center}
 .hero-content{max-width:800px;padding:20px}
 .hero h1{font-family:"Cormorant Garamond",serif;font-size:5rem;line-height:1}
 .lead{font-size:1.2rem;margin:20px 0}
